@@ -2,7 +2,18 @@
 
 ## Overview
 
-An interactive Power BI dashboard developed to analyze Uber booking performance, revenue trends, customer ratings, and operational insights. The dashboard helps stakeholders monitor key business metrics and make data-driven decisions.
+An interactive Power BI dashboard developed to analyze Uber booking performance, revenue trends, customer ratings, and operational insights.
+
+## Business Requirements
+
+The project includes a Business Requirements Document (BRD) containing:
+
+* Business Problem Statement
+* Stakeholder Requirements
+* Use Cases
+* KPIs and Metrics
+* Dashboard Objectives
+
 
 ## Key Metrics
 
@@ -24,22 +35,3 @@ An interactive Power BI dashboard developed to analyze Uber booking performance,
 * Power Query
 * DAX
 * Data Modeling
-* Data Visualization
-
-## Key Insights
-
-* Identified top-performing vehicle categories based on revenue.
-* Analyzed booking patterns and revenue trends.
-* Evaluated customer and driver satisfaction ratings.
-* Monitored location-wise trip performance.
-
-## Dashboard Preview
-
-(Add dashboard screenshots here)
-
-## Project Files
-
-* Uber_Trip_Analysis.pbix
-* Dataset
-* Dashboard Screenshots
-
